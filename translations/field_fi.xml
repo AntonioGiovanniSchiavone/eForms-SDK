@@ -93,13 +93,11 @@
 <entry key="field|description|BT-15-Lot">Internetosoite, jossa hankinta-asiakirjat ovat (rajoittamattomasti) saatavilla. Kaikissa ilmoituksissa lukuun ottamatta ennakkoilmoituksia osoitteen on oltava suora (eli johdettava suoraan verkkosivulle, jolta asiakirjat löytyvät, ei yleiselle verkkosivustolle), rajoittamaton (esim. ei rekisteröintiä), kattava (eli hankinta-asiakirjojen on oltava täydelliset) ja maksuttomasti käytettävissä, ja asiakirjojen on oltava saatavilla jo ilmoituksen julkaisemishetkellä.</entry>
 <entry key="field|description|BT-15-Part">Internetosoite, jossa hankinta-asiakirjat ovat (rajoittamattomasti) saatavilla. Kaikissa ilmoituksissa lukuun ottamatta ennakkoilmoituksia osoitteen on oltava suora (eli johdettava suoraan verkkosivulle, jolta asiakirjat löytyvät, ei yleiselle verkkosivustolle), rajoittamaton (esim. ei rekisteröintiä), kattava (eli hankinta-asiakirjojen on oltava täydelliset) ja maksuttomasti käytettävissä, ja asiakirjojen on oltava saatavilla jo ilmoituksen julkaisemishetkellä.</entry>
 <entry key="field|description|BT-150-Contract">Sopimuksen tunniste tai, jos kyseessä on vapaaehtoista ex ante -avoimuutta koskeva ilmoitus tai suunnittelukilpailun tuloksia koskeva ilmoitus, päätöksen tunniste. Kohdassa ”Hankintasopimus” olevat tiedot viittaavat tähän sopimukseen tai päätökseen.</entry>
-<entry key="field|description|BT-150-Contract-Scheme">Sopimuksen tunniste tai, jos kyseessä on vapaaehtoista ex ante -avoimuutta koskeva ilmoitus tai suunnittelukilpailun tuloksia koskeva ilmoitus, päätöksen tunniste. Kohdassa ”Hankintasopimus” olevat tiedot viittaavat tähän sopimukseen tai päätökseen.</entry>
 <entry key="field|description|BT-1501(c)-Contract">Sopimuksen tunniste (CON-XXXX), johon tämä muutos soveltuu, kuten edellisessä ilmoituksessa on ilmoitettu.</entry>
 <entry key="field|description|BT-1501(c)-Contract-Scheme">Edellisen ilmoituksen yhden tai useamman kohdan tunniste menettelyn yhteydessä. Kohdassa ”Sopimusmuutokset” olevat tiedot viittaavat tähän kohtaan tai näihin kohtiin.</entry>
 <entry key="field|description|BT-1501(n)-Contract">Sopimuksen myöntämisilmoituksen tunniste (XXXXXXXX-YYYY), joka sisältää sopimuksen, johon tämä muutos soveltuu.</entry>
 <entry key="field|description|BT-1501(n)-Contract-Scheme">Edellisen ilmoituksen yhden tai useamman kohdan tunniste menettelyn yhteydessä. Kohdassa ”Sopimusmuutokset” olevat tiedot viittaavat tähän kohtaan tai näihin kohtiin.</entry>
 <entry key="field|description|BT-1501(p)-Contract">Yrityksen tunniste (RESULT|((RES|TEN|TPA|TPO|ORG-XXXX)), kuten edellisessä ilmoituksessa on ilmoitettu.</entry>
-<entry key="field|description|BT-1501(s)-Contract">Edellisen ilmoituksen yhden tai useamman kohdan tunniste menettelyn yhteydessä. Kohdassa ”Sopimusmuutokset” olevat tiedot viittaavat tähän kohtaan tai näihin kohtiin.</entry>
 <entry key="field|description|BT-151-Contract">Sopimuksen URL-osoite (esim. verkko-osoite).</entry>
 <entry key="field|description|BT-156-NoticeResult">Uudelleenlaskettu enimmäisarvo, joka erien ryhmään todennäköisesti käytetään hankintamenettelyssä. Nämä tiedot voidaan antaa, jos erien ryhmän enimmäisarvo on pienempi kuin yksittäisten erien arvojen summa (esim. kun sama talousarvio on jaettu useille erille). Arvo kattaa kaikki puitejärjestelyssä tehtävät hankintasopimukset sen koko keston ajalta, mukaan lukien optiot ja uusimiset. Arvo lasketaan uudelleen voittavan tarjouksen/tarjouksien perusteella.</entry>
 <entry key="field|description|BT-156-NoticeResult-Currency">Uudelleenlaskettu enimmäisarvo, joka erien ryhmään todennäköisesti käytetään hankintamenettelyssä. Nämä tiedot voidaan antaa, jos erien ryhmän enimmäisarvo on pienempi kuin yksittäisten erien arvojen summa (esim. kun sama talousarvio on jaettu useille erille). Arvo kattaa kaikki puitejärjestelyssä tehtävät hankintasopimukset sen koko keston ajalta, mukaan lukien optiot ja uusimiset. Arvo lasketaan uudelleen voittavan tarjouksen/tarjouksien perusteella.</entry>
@@ -1186,7 +1184,6 @@
 <entry key="field|description|OPT-999">Järjestelmän vaatima kuvitteellinen päivämääräelementti. On aina '2000-01-01Z'</entry>
 <entry key="field|hint|BT-09(a)-Procedure">Sovellettava lainsäädäntö, jos hankintaan osallistuu ostajia eri maista.</entry>
 <entry key="field|hint|BT-13716-notice">Yksi seuraavista on täytettävä: PROCEDURE, BUYER, RESULT, PAR-XXXX, LOT-XXXX, GLO-XXXX, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, CON-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-13716-Notice">Yksi seuraavista on täytettävä: PROCEDURE, BUYER, RESULT, PAR-nnnn, LOT-nnnn GLO-nnnn, RES-nnnn ORG-nnnn</entry>
 <entry key="field|hint|BT-1375-Procedure">Lisää haluamasi määrä eriä sisällytettäväksi erien ryhmään.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Lisää haluamasi määrä eriä sisällytettäväksi erien ryhmään.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">Yksi seuraavista on täytettävä: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
@@ -1323,13 +1320,11 @@
 <entry key="field|name|BT-15-Lot">Hankinta-asiakirjojen osoite</entry>
 <entry key="field|name|BT-15-Part">Hankinta-asiakirjojen osoite</entry>
 <entry key="field|name|BT-150-Contract">Sopimuksen tunniste</entry>
-<entry key="field|name|BT-150-Contract-Scheme">Sopimuksen tunniste</entry>
 <entry key="field|name|BT-1501(c)-Contract">Muutetun sopimuksen tunniste</entry>
 <entry key="field|name|BT-1501(c)-Contract-Scheme">Kohdan tunniste</entry>
 <entry key="field|name|BT-1501(n)-Contract">Tunniste edellisestä sopimuksen myöntämisilmoituksesta</entry>
 <entry key="field|name|BT-1501(n)-Contract-Scheme">Kohdan tunniste</entry>
 <entry key="field|name|BT-1501(p)-Contract">Yrityksen tunniste edellisessä ilmoituksessa</entry>
-<entry key="field|name|BT-1501(s)-Contract">Kohdan tunniste</entry>
 <entry key="field|name|BT-151-Contract">Sopimuksen osoite</entry>
 <entry key="field|name|BT-156-NoticeResult">Puitejärjestelyjen enimmäisarvo tässä erien ryhmässä</entry>
 <entry key="field|name|BT-156-NoticeResult-Currency">Puitejärjestelyjen enimmäisarvo tässä erien ryhmässä</entry>

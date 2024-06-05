@@ -93,13 +93,11 @@
 <entry key="field|description|BT-15-Lot">An seoladh idirlín chun rochtain a fháil ar na doiciméid soláthair (nó ar an gcuid díobh nach bhfuil srianta). I gcás gach fógra nach fógra réamhfhaisnéise é, tabharfar rochtain dhíreach (i.e. an leathanach gréasáin féin ar a bhfuil na doiciméid, seachas suíomh gréasáin ginearálta) gan srian (e.g. gan chlárú), iomlán (i.e. tá na doiciméid soláthair ann ina n‑iomláine) agus saor in aisce ar fáil leis an seoladh agus beidh siad ar fáil cheana féin tráth fógra a fhoilsiú.</entry>
 <entry key="field|description|BT-15-Part">An seoladh idirlín chun rochtain a fháil ar na doiciméid soláthair (nó ar an gcuid díobh nach bhfuil srianta). I gcás gach fógra nach fógra réamhfhaisnéise é, tabharfar rochtain dhíreach (i.e. an leathanach gréasáin féin ar a bhfuil na doiciméid, seachas suíomh gréasáin ginearálta) gan srian (e.g. gan chlárú), iomlán (i.e. tá na doiciméid soláthair ann ina n‑iomláine) agus saor in aisce ar fáil leis an seoladh agus beidh siad ar fáil cheana féin tráth fógra a fhoilsiú.</entry>
 <entry key="field|description|BT-150-Contract">Aitheantóir don chonradh nó, i gcás fógraí trédhearcachta ex ante deonacha agus fógraí maidir le torthaí ar chomórtas deartha, aitheantóir don chinneadh. Is don chonradh nó don chinneadh seo a thagraíonn an fhaisnéis i rannóg an chonartha.</entry>
-<entry key="field|description|BT-150-Contract-Scheme">Aitheantóir don chonradh nó, i gcás fógraí trédhearcachta ex ante deonacha agus fógraí maidir le torthaí ar chomórtas deartha, aitheantóir don chinneadh. Is don chonradh nó don chinneadh seo a thagraíonn an fhaisnéis i rannóg an chonartha.</entry>
 <entry key="field|description|BT-1501(c)-Contract">Aitheantas an chonartha (CON-XXXX) a bhfuil an leasú seo i gceist leis, mar a tugadh le fios sa bhfógra roimhe seo.</entry>
 <entry key="field|description|BT-1501(c)-Contract-Scheme">Aitheantóir do rannóg amháin nó níos mó laistigh d’fhógra roimhe sin laistigh den nós imeachta. Is don rannóg seo nó do na rannóga seo a thagraíonn an fhaisnéis i rannóg an mhionathraithe.</entry>
 <entry key="field|description|BT-1501(n)-Contract">Aitheantas (XXXXXXXX-YYYY) ar an bhfógra bronnta conartha a bhfuil an conradh a bhfuil an leasú seo i gceist leis ann.</entry>
 <entry key="field|description|BT-1501(n)-Contract-Scheme">Aitheantóir do rannóg amháin nó níos mó laistigh d’fhógra roimhe sin laistigh den nós imeachta. Is don rannóg seo nó do na rannóga seo a thagraíonn an fhaisnéis i rannóg an mhionathraithe.</entry>
 <entry key="field|description|BT-1501(p)-Contract">Aitheantas ghnólachta (RESULT|((RES|TEN|TPA|TPO|ORG-XXXX)), mar a tugadh le fios sa bhfógra roimhe seo.</entry>
-<entry key="field|description|BT-1501(s)-Contract">Aitheantóir do rannóg amháin nó níos mó laistigh d’fhógra roimhe sin laistigh den nós imeachta. Is don rannóg seo nó do na rannóga seo a thagraíonn an fhaisnéis i rannóg an mhionathraithe.</entry>
 <entry key="field|description|BT-151-Contract">Aimsitheoir aonfhoirmeach acmhainne (e.g. seoladh gréasáin) an chonartha.</entry>
 <entry key="field|description|BT-156-NoticeResult">Is é an t‑uasluach uasta athríofa é is dócha a chaithfear ar ghrúpa beart laistigh den nós imeachta. Is féidir an fhaisnéis sin a sholáthar más ísle luach uasta an ghrúpa beart ná suim luachanna na mbeart aonair (e.g. i gcás ina mbeidh an buiséad céanna le roinnt ar bhearta éagsúla). Cumhdaítear sa luach na conarthaí uile atá le dámhachtain laistigh de chreat‑chomhaontú, feadh a fhaid ama ina iomláine, roghanna agus athnuachan san áireamh. Athríomhtar an luach ar bhonn thairiscintí an bhuaiteora nó thairiscintí na mbuaiteoirí.</entry>
 <entry key="field|description|BT-156-NoticeResult-Currency">Is é an t‑uasluach uasta athríofa é is dócha a chaithfear ar ghrúpa beart laistigh den nós imeachta. Is féidir an fhaisnéis sin a sholáthar más ísle luach uasta an ghrúpa beart ná suim luachanna na mbeart aonair (e.g. i gcás ina mbeidh an buiséad céanna le roinnt ar bhearta éagsúla). Cumhdaítear sa luach na conarthaí uile atá le dámhachtain laistigh de chreat‑chomhaontú, feadh a fhaid ama ina iomláine, roghanna agus athnuachan san áireamh. Athríomhtar an luach ar bhonn thairiscintí an bhuaiteora nó thairiscintí na mbuaiteoirí.</entry>
@@ -1186,7 +1184,6 @@
 <entry key="field|description|OPT-999">Eléimint dáta bréige atá riachtanach don scéim. Beidh sé i gcónaí '2000-01-01Z'</entry>
 <entry key="field|hint|BT-09(a)-Procedure">An dlí is infheidhme má bhaineann ceannaitheoirí ó thíortha éagsúla leis an soláthar.</entry>
 <entry key="field|hint|BT-13716-notice">Caithfidh ceann de na réimse seo a líonadh: PROCEDURE, BUYER, RESULT, PAR-XXXX, LOT-XXXX, GLO-XXXX, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, CON-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-13716-Notice">Caithfidh ceann de na réimse seo a líonadh: PROCEDURE, BUYER, RESULT, PAR-nnnn, LOT-nnnn GLO-nnnn, RES-nnnn ORG-nnnn</entry>
 <entry key="field|hint|BT-1375-Procedure">Cuir an oiread beart agus is mian leat san áireamh sa ghrúpa beart.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Cuir an oiread beart agus is mian leat san áireamh sa ghrúpa beart.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">Caithfidh ceann de na réimse seo a líonadh: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
@@ -1323,13 +1320,11 @@
 <entry key="field|name|BT-15-Lot">Seoladh na ndoiciméad soláthair</entry>
 <entry key="field|name|BT-15-Part">Seoladh na ndoiciméad soláthair</entry>
 <entry key="field|name|BT-150-Contract">Aitheantóir an chonartha</entry>
-<entry key="field|name|BT-150-Contract-Scheme">Aitheantóir an chonartha</entry>
 <entry key="field|name|BT-1501(c)-Contract">Aitheantas an chonartha athraithe</entry>
 <entry key="field|name|BT-1501(c)-Contract-Scheme">Aitheantóir rannáin</entry>
 <entry key="field|name|BT-1501(n)-Contract">Aitheantas an fógra roimhe seo de bhronnadh conradh</entry>
 <entry key="field|name|BT-1501(n)-Contract-Scheme">Aitheantóir rannáin</entry>
 <entry key="field|name|BT-1501(p)-Contract">Aitheantas an ghnólachta sa bhfógra roimhe seo</entry>
-<entry key="field|name|BT-1501(s)-Contract">Aitheantóir rannáin</entry>
 <entry key="field|name|BT-151-Contract">Seoladh an chonartha</entry>
 <entry key="field|name|BT-156-NoticeResult">Uasluach na gcreat-chomhaontuithe sa ghrúpa beart seo</entry>
 <entry key="field|name|BT-156-NoticeResult-Currency">Uasluach na gcreat-chomhaontuithe sa ghrúpa beart seo</entry>

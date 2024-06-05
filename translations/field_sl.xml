@@ -93,13 +93,11 @@
 <entry key="field|description|BT-15-Lot">Internetni naslov za dostop do dokumentov (tistega dela dokumentov, za katerega ne veljajo omejitve) v zvezi z oddajo javnega naročila. Pri vseh obvestilih, razen predhodnih informativnih obvestil, je v naslovu naveden naslov za dostop, ki je neposreden (tj. točen naslov spletne strani z dokumenti, ne naslov splošnega spletišča), neomejen (brez registracije), popoln (tj. dokumentacija v zvezi z oddajo javnega naročila je popolna) in brezplačen, dokumenti so v času objave obvestila že na voljo.</entry>
 <entry key="field|description|BT-15-Part">Internetni naslov za dostop do dokumentov (tistega dela dokumentov, za katerega ne veljajo omejitve) v zvezi z oddajo javnega naročila. Pri vseh obvestilih, razen predhodnih informativnih obvestil, je v naslovu naveden naslov za dostop, ki je neposreden (tj. točen naslov spletne strani z dokumenti, ne naslov splošnega spletišča), neomejen (brez registracije), popoln (tj. dokumentacija v zvezi z oddajo javnega naročila je popolna) in brezplačen, dokumenti so v času objave obvestila že na voljo.</entry>
 <entry key="field|description|BT-150-Contract">Identifikator pogodbe oziroma sklepa v primeru prostovoljnih obvestil za predhodno transparentnost in obvestil o rezultatih projektnega natečaja. Podatki v oddelku o pogodbi se nanašajo na to pogodbo ali sklep.</entry>
-<entry key="field|description|BT-150-Contract-Scheme">Identifikator pogodbe oziroma sklepa v primeru prostovoljnih obvestil za predhodno transparentnost in obvestil o rezultatih projektnega natečaja. Podatki v oddelku o pogodbi se nanašajo na to pogodbo ali sklep.</entry>
 <entry key="field|description|BT-1501(c)-Contract">Identifikator pogodbe (CON-XXXX), na katero se ta sprememba nanaša, kot je navedeno v prejšnjem obvestilu.</entry>
 <entry key="field|description|BT-1501(c)-Contract-Scheme">Identifikator enega ali več oddelkov v predhodnem obvestilu v zadevnem postopku. Podatki v oddelku o spremembi se nanašajo na ta oddelek ali te oddelke.</entry>
 <entry key="field|description|BT-1501(n)-Contract">Identifikator (XXXXXXXX-YYYY) obvestila o dodelitvi pogodbe, ki vsebuje pogodbo, na katero se ta sprememba nanaša.</entry>
 <entry key="field|description|BT-1501(n)-Contract-Scheme">Identifikator enega ali več oddelkov v predhodnem obvestilu v zadevnem postopku. Podatki v oddelku o spremembi se nanašajo na ta oddelek ali te oddelke.</entry>
 <entry key="field|description|BT-1501(p)-Contract">Identifikator poslovne entitete (RESULT|((RES|TEN|TPA|TPO|ORG-XXXX)), kot je navedeno v prejšnjem obvestilu.</entry>
-<entry key="field|description|BT-1501(s)-Contract">Identifikator enega ali več oddelkov v predhodnem obvestilu v zadevnem postopku. Podatki v oddelku o spremembi se nanašajo na ta oddelek ali te oddelke.</entry>
 <entry key="field|description|BT-151-Contract">Naslov vira v enotni obliki (npr. spletni naslov) naročila.</entry>
 <entry key="field|description|BT-156-NoticeResult">Ponovno izračunana najvišja vrednost, ki se bo verjetno porabila za skupino sklopov v postopku. Ta podatek se lahko navede, če je najvišja vrednost skupine sklopov nižja od vsote vrednosti posameznih sklopov (npr. če ima več sklopov skupen proračun). Vrednost zajema vsa naročila, ki bodo oddana v okvirnem sporazumu skozi celotno trajanje, vključno z opcijami in podaljšanji. Ta vrednost je ponovno izračunana na podlagi ponudbe zmagovalca ali ponudb zmagovalcev.</entry>
 <entry key="field|description|BT-156-NoticeResult-Currency">Ponovno izračunana najvišja vrednost, ki se bo verjetno porabila za skupino sklopov v postopku. Ta podatek se lahko navede, če je najvišja vrednost skupine sklopov nižja od vsote vrednosti posameznih sklopov (npr. če ima več sklopov skupen proračun). Vrednost zajema vsa naročila, ki bodo oddana v okvirnem sporazumu skozi celotno trajanje, vključno z opcijami in podaljšanji. Ta vrednost je ponovno izračunana na podlagi ponudbe zmagovalca ali ponudb zmagovalcev.</entry>
@@ -1186,7 +1184,6 @@
 <entry key="field|description|OPT-999">Potreben je fiktivni datumski element za shemo. Bo vedno '2000-01-01Z'</entry>
 <entry key="field|hint|BT-09(a)-Procedure">Pravo, ki se uporablja, če javno naročilo vključuje kupce iz različnih držav.</entry>
 <entry key="field|hint|BT-13716-notice">Eden od naslednjega mora biti izpolnjen: PROCEDURE, BUYER, RESULT, PAR-XXXX, LOT-XXXX, GLO-XXXX, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, CON-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-13716-Notice">Eden od naslednjega mora biti izpolnjen: PROCEDURE, BUYER, RESULT, PAR-nnnn, LOT-nnnn GLO-nnnn, RES-nnnn ORG-nnnn</entry>
 <entry key="field|hint|BT-1375-Procedure">Dodajte toliko sklopov, kot jih želite vključiti v skupino sklopov.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Dodajte toliko sklopov, kot jih želite vključiti v skupino sklopov.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">Eden od naslednjega mora biti izpolnjen: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
@@ -1323,13 +1320,11 @@
 <entry key="field|name|BT-15-Lot">Naslov dokumentov v zvezi z oddajo javnega naročila</entry>
 <entry key="field|name|BT-15-Part">Naslov dokumentov v zvezi z oddajo javnega naročila</entry>
 <entry key="field|name|BT-150-Contract">Identifikator javnega naročila</entry>
-<entry key="field|name|BT-150-Contract-Scheme">Identifikator javnega naročila</entry>
 <entry key="field|name|BT-1501(c)-Contract">Identifikator spremenjene pogodbe</entry>
 <entry key="field|name|BT-1501(c)-Contract-Scheme">Identifikator oddelka</entry>
 <entry key="field|name|BT-1501(n)-Contract">Identifikator prejšnjega obvestila o dodelitvi pogodbe</entry>
 <entry key="field|name|BT-1501(n)-Contract-Scheme">Identifikator oddelka</entry>
 <entry key="field|name|BT-1501(p)-Contract">Identifikator poslovne entitete v prejšnjem obvestilu</entry>
-<entry key="field|name|BT-1501(s)-Contract">Identifikator oddelka</entry>
 <entry key="field|name|BT-151-Contract">Naslov javnega naročila</entry>
 <entry key="field|name|BT-156-NoticeResult">Najvišja vrednost okvirnih sporazumov v tej skupini sklopov</entry>
 <entry key="field|name|BT-156-NoticeResult-Currency">Najvišja vrednost okvirnih sporazumov v tej skupini sklopov</entry>

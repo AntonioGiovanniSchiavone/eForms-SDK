@@ -93,13 +93,11 @@
 <entry key="field|description|BT-15-Lot">Het internetadres om toegang te krijgen tot de aanbestedingsstukken (of het niet beperkt toegankelijke deel ervan). Voor alle aankondigingen, behalve vooraankondigingen, moet het adres een toegang bieden die direct (d.w.z. de specifieke webpagina met de documenten, geen algemene website), niet beperkt (bv. geen registratie), volledig (d.w.z. de aanbestedingsstukken zijn volledig) en kosteloos is, en moeten de documenten op het tijdstip van bekendmaking van de aankondiging reeds beschikbaar zijn.</entry>
 <entry key="field|description|BT-15-Part">Het internetadres om toegang te krijgen tot de aanbestedingsstukken (of het niet beperkt toegankelijke deel ervan). Voor alle aankondigingen, behalve vooraankondigingen, moet het adres een toegang bieden die direct (d.w.z. de specifieke webpagina met de documenten, geen algemene website), niet beperkt (bv. geen registratie), volledig (d.w.z. de aanbestedingsstukken zijn volledig) en kosteloos is, en moeten de documenten op het tijdstip van bekendmaking van de aankondiging reeds beschikbaar zijn.</entry>
 <entry key="field|description|BT-150-Contract">Een identificatiecode van de opdracht of – bij aankondigingen in geval van vrijwillige transparantie vooraf en aankondigingen van de resultaten van prijsvragen – van de beslissing. De informatie in de afdeling “opdracht” heeft betrekking op deze opdracht of beslissing.</entry>
-<entry key="field|description|BT-150-Contract-Scheme">Een identificatiecode van de opdracht of – bij aankondigingen in geval van vrijwillige transparantie vooraf en aankondigingen van de resultaten van prijsvragen – van de beslissing. De informatie in de afdeling “opdracht” heeft betrekking op deze opdracht of beslissing.</entry>
 <entry key="field|description|BT-1501(c)-Contract">De identificatie van het contract (CON-XXXX) waarop deze wijziging van toepassing is, zoals gegeven in de vorige aankondiging.</entry>
 <entry key="field|description|BT-1501(c)-Contract-Scheme">Een identificatiecode van een of meer afdelingen in een eerdere aankondiging binnen de procedure. De informatie in de afdeling “wijziging” heeft betrekking op deze afdeling(en).</entry>
 <entry key="field|description|BT-1501(n)-Contract">Een identificatiecode (XXXXXXXX-YYYY) van de aankondiging van een contracttoewijzing die het contract bevat waarop deze wijziging van toepassing is.</entry>
 <entry key="field|description|BT-1501(n)-Contract-Scheme">Een identificatiecode van een of meer afdelingen in een eerdere aankondiging binnen de procedure. De informatie in de afdeling “wijziging” heeft betrekking op deze afdeling(en).</entry>
 <entry key="field|description|BT-1501(p)-Contract">Een identificatie van een bedrijfsentiteit (RESULT|((RES|TEN|TPA|TPO|ORG-XXXX)), zoals gegeven in de vorige aankondiging.</entry>
-<entry key="field|description|BT-1501(s)-Contract">Een identificatiecode van een of meer afdelingen in een eerdere aankondiging binnen de procedure. De informatie in de afdeling “wijziging” heeft betrekking op deze afdeling(en).</entry>
 <entry key="field|description|BT-151-Contract">De “uniform resource locator” (bv. het webadres) van de opdracht.</entry>
 <entry key="field|description|BT-156-NoticeResult">Dit is de herberekende maximumwaarde die waarschijnlijk voor een groep percelen binnen de procedure zal worden besteed. Deze informatie kan worden verstrekt wanneer de maximumwaarde van een groep percelen lager is dan de som van de waarden van de afzonderlijke percelen (bv. als meerdere percelen hetzelfde budget delen). De waarde omvat alle opdrachten die in het kader van een raamovereenkomst tijdens haar gehele looptijd zullen worden gegund, met inbegrip van opties en verlengingen. De waarde wordt herberekend op basis van de inschrijving van de winnaar of de inschrijvingen van de winnaars.</entry>
 <entry key="field|description|BT-156-NoticeResult-Currency">Dit is de herberekende maximumwaarde die waarschijnlijk voor een groep percelen binnen de procedure zal worden besteed. Deze informatie kan worden verstrekt wanneer de maximumwaarde van een groep percelen lager is dan de som van de waarden van de afzonderlijke percelen (bv. als meerdere percelen hetzelfde budget delen). De waarde omvat alle opdrachten die in het kader van een raamovereenkomst tijdens haar gehele looptijd zullen worden gegund, met inbegrip van opties en verlengingen. De waarde wordt herberekend op basis van de inschrijving van de winnaar of de inschrijvingen van de winnaars.</entry>
@@ -1186,7 +1184,6 @@
 <entry key="field|description|OPT-999">Dummy datum element vereist door het schema. Zal altijd '2000-01-01Z' zijn</entry>
 <entry key="field|hint|BT-09(a)-Procedure">Het toepasselijke recht indien bij de aanbesteding kopers uit verschillende landen betrokken zijn.</entry>
 <entry key="field|hint|BT-13716-notice">Een van de volgende moet worden ingevuld: PROCEDURE, BUYER, RESULT, PAR-XXXX, LOT-XXXX, GLO-XXXX, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, CON-XXXX, UBO-XXXX</entry>
-<entry key="field|hint|BT-13716-Notice">Een van de volgende moet worden ingevuld: PROCEDURE, BUYER, RESULT, PAR-nnnn, LOT-nnnn GLO-nnnn, RES-nnnn ORG-nnnn</entry>
 <entry key="field|hint|BT-1375-Procedure">Voeg zoveel percelen als u wilt aan de groep percelen toe.</entry>
 <entry key="field|hint|BT-1375-Procedure-Scheme">Voeg zoveel percelen als u wilt aan de groep percelen toe.</entry>
 <entry key="field|hint|BT-1501(p)-Contract">Een van de volgende moet worden ingevuld: BUYER, RESULT, RES-XXXX, ORG-XXXX, TPA-XXXX, TPO- XXXX, TEN-XXXX, UBO-XXXX</entry>
@@ -1323,13 +1320,11 @@
 <entry key="field|name|BT-15-Lot">Adres van de aanbestedingsstukken</entry>
 <entry key="field|name|BT-15-Part">Adres van de aanbestedingsstukken</entry>
 <entry key="field|name|BT-150-Contract">Identificatiecode van het contract</entry>
-<entry key="field|name|BT-150-Contract-Scheme">Identificatiecode van het contract</entry>
 <entry key="field|name|BT-1501(c)-Contract">Identifier van het gewijzigde contract</entry>
 <entry key="field|name|BT-1501(c)-Contract-Scheme">Identificatiecode afdeling</entry>
 <entry key="field|name|BT-1501(n)-Contract">Identificatie van de vorige aankondiging van een contracttoewijzing</entry>
 <entry key="field|name|BT-1501(n)-Contract-Scheme">Identificatiecode afdeling</entry>
 <entry key="field|name|BT-1501(p)-Contract">Bedrijfsentiteitidentificatie in de vorige aankondiging</entry>
-<entry key="field|name|BT-1501(s)-Contract">Identificatiecode afdeling</entry>
 <entry key="field|name|BT-151-Contract">Adres van de opdracht</entry>
 <entry key="field|name|BT-156-NoticeResult">Maximumwaarde van de raamovereenkomsten in deze groep percelen</entry>
 <entry key="field|name|BT-156-NoticeResult-Currency">Maximumwaarde van de raamovereenkomsten in deze groep percelen</entry>
